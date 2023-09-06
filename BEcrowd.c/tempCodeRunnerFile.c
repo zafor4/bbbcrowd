@@ -1,0 +1,1 @@
+printf("par[%d] = %d\n",p,par[p]);
